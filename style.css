@@ -1,0 +1,14 @@
+.heading{
+    font-size: 30px;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#note{
+    font-size: 20px;
+    font-family: monospace;
+    color:blue
+}
+h2{
+    color:aqua;
+    font-family: Gill Sans MT;
+}
